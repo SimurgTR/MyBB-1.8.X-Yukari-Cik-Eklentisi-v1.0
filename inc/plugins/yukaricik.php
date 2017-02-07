@@ -17,7 +17,7 @@ if(!defined("IN_MYBB"))
 	die("Bu dosyaya doğrudan erişim yasak veya yetkiniz bulunmuyor.");
 }
 // Eklenti bağlantı fonksiyonları
-$plugins->add_hook("pre_output_page","yukarıcik");
+$plugins->add_hook("pre_output_page","yukaricik");
 
 // Eklenti bilgileri
 function yukaricik_info()

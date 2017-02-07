@@ -53,7 +53,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/totop/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/totop/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -68,7 +68,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
 			
@@ -83,7 +83,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -99,7 +99,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -114,7 +114,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -129,7 +129,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -144,7 +144,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -159,7 +159,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -174,7 +174,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -189,7 +189,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -204,7 +204,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -219,7 +219,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
             
@@ -235,7 +235,7 @@ function yukaricik($page)
 </head>',$page);
 
             $page=str_replace("</body>",'<div id="yukaricikar">
-    <a class="go-top" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
+    <a class="yukari-git" href="#top" title="Yukarı Çık"><img src="'.$mybb->settings["bburl"].'/inc/plugins/yukaricik/img/yukaricik.png" /></a>
 </div>
 </body>',$page);
 			
